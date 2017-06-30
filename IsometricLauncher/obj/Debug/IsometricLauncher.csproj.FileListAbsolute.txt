@@ -1,0 +1,8 @@
+E:\projects\isometric launcher\IsometricLauncher\bin\Debug\IsometricLauncher.exe.config
+E:\projects\isometric launcher\IsometricLauncher\bin\Debug\IsometricLauncher.exe
+E:\projects\isometric launcher\IsometricLauncher\bin\Debug\IsometricLauncher.pdb
+E:\projects\isometric launcher\IsometricLauncher\obj\Debug\IsometricLauncher.exe
+E:\projects\isometric launcher\IsometricLauncher\obj\Debug\IsometricLauncher.pdb
+E:\projects\isometric launcher\IsometricLauncher\obj\Debug\IsometricLauncher.csprojResolveAssemblyReference.cache
+E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Newtonsoft.Json.dll
+E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Newtonsoft.Json.xml

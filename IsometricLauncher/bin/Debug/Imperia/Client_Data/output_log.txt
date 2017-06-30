@@ -1,0 +1,678 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6670 (ID=0x6758)
+    Vendor:   ATI
+    VRAM:     1012 MB
+    Driver:   15.201.2201.0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\Isometric.Core.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\Isometric.Core.dll into Unity Child Domain
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  0.305 seconds
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 40.436234 ms
+Platform assembly: E:\projects\isometric launcher\IsometricLauncher\bin\Debug\Imperia\Client_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+{
+  "$id": "344",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "345",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "buildings": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]][,], mscorlib",
+    "$values": [
+      [
+        {
+          "$id": "346",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "House",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "00:00:00"
+          }
+        },
+        {
+          "$id": "347",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "House",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "00:00:00"
+          }
+        },
+        {
+          "$id": "348",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "349",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "350",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        }
+      ],
+      [
+        {
+          "$id": "351",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "House",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "00:00:00"
+          }
+        },
+        {
+          "$id": "352",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "353",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "354",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "355",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        }
+      ],
+      [
+        {
+          "$id": "356",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "House",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "00:00:00"
+          }
+        },
+        {
+          "$id": "357",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "358",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "359",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "360",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        }
+      ],
+      [
+        {
+          "$id": "361",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "362",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "363",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "364",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "365",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        }
+      ],
+      [
+        {
+          "$id": "366",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "367",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "368",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Plain",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "369",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        },
+        {
+          "$id": "370",
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "name": "Forest",
+          "real building time": {
+            "$type": "System.TimeSpan",
+            "$value": "-00:00:01"
+          }
+        }
+      ]
+    ]
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "371",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "372",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "373",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "",
+  "name": "House",
+  "people": 80,
+  "builders": 0,
+  "max builders": 10,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "374",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "375",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "",
+  "name": "House",
+  "people": 0,
+  "builders": 0,
+  "max builders": 10,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "376",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "377",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Forest",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "378",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "379",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "380",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "381",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "",
+  "name": "House",
+  "people": 0,
+  "builders": 0,
+  "max builders": 10,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "382",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "383",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Plain",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "384",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "385",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Plain",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "386",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "387",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "upgrades names": {
+    "$type": "System.String[], mscorlib",
+    "$values": [
+      "House"
+    ]
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "388",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Plain",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "389",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "390",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "391",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "392",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "upgrades names": {
+    "$type": "System.String[], mscorlib",
+    "$values": [
+      "House"
+    ]
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "393",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Plain",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "394",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "395",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "396",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "397",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "398",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "399",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "400",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "401",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "upgrades names": {
+    "$type": "System.String[], mscorlib",
+    "$values": [
+      "House"
+    ]
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "402",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Plain",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "403",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "404",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "upgrades names": {
+    "$type": "System.String[], mscorlib",
+    "$values": [
+      "House"
+    ]
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "405",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "406",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "407",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "owner name": "no owner",
+  "name": "Plain",
+  "people": 0,
+  "builders": 0,
+  "max builders": 0,
+  "finished": true,
+  "is income building": false,
+  "workers": 0,
+  "max workers": 0,
+  "income": {
+    "$id": "408",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "409",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "410",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{
+  "$id": "411",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "412",
+    "$type": "Isometric.Core.Resources, Isometric.Core",
+    "Wood": 0.0,
+    "Food": 0.0
+  }
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 100c -> priority: 1 
